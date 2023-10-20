@@ -151,6 +151,46 @@ section.crafts img {
   padding: 0;
 }
 
+.contact {
+  height: 20vh;
+}
+
+.contact h3 {
+  text-align: center;
+}
+
+.clink {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa {
+  /* padding: 20px; */
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-twitter {
+  color: antiquewhite;
+}
+.fa-linkedin {
+  color: antiquewhite;
+}
+.fa-github {
+  color: antiquewhite;
+}
+.fa-cloud {
+  color: antiquewhite;
+}
+
 .contact ul > li {
   display: inline-block;
 }
